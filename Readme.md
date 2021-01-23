@@ -1,7 +1,7 @@
 ## Hello World! I'm Levi 👨🏻‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslevi/)](https://www.linkedin.com/in/lucaslevi/)
 
-![GitHub Logo](/Quentin Tarantino.jpg)
+![GitHub Logo](/bannerpicture.png)
 
 ### About me 😄
 My real name is Lucas, but everyone calls me by 'Levi', because 'Lucas' we find anywhere. 
