@@ -35,7 +35,7 @@ Like the skills section, this will be under construction, After all, I just star
 - Freelancer at Workana 
 
 ⚡ Fun Facts:
-```c
+```
 1 - I have 5 tattoos with technology theme
 2 - My favorite anime in the whole world is One Piece (It get's better after 800 episodes LOL) 
 3 - My favorite tv show is Bojack Horseman ~I don't understand how people lives🐴 ~
