@@ -39,7 +39,7 @@ Like the skills section, this will be under construction, After all, I just star
 1 - I have 5 tattoos with technology theme
 2 - My favorite anime in the whole world is One Piece (It get's better after 800 episodes LOL) 
 3 - My favorite tv show is Bojack Horseman ~I don't understand how people lives🐴 ~
-4 - In my teens, I got Challenger in League of Legends. To be honest, I'm not really proud of that. ~To be more honest, I have~
+4 - In my teens, I got Challenger in League of Legends. To be honest, I'm not really proud of that. ~To be more honest, I am~
 ```
 
 If you want to know more, send me a message and let's talk! 
