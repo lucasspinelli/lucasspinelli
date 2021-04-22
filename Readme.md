@@ -31,6 +31,7 @@ Some other skills:
 
 ### About my jobs and experiences 
 Like the skills section, this will be under construction, After all, I just started my career
+- Jr Back-end Developer at Luz Soluções Financeiras - Actual Job
 - Web Developer at Performma Online 
 - Freelancer at Workana 
 
