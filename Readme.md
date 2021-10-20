@@ -6,7 +6,7 @@
 ### About me 😄
 My real name is Lucas, but everyone calls me by 'Levi', because 'Lucas' we find anywhere. 
 As you may have already seen, I am a young man who loves old movies, and the most important, technology. 
-I'm finishing the course of Analysis and Systems Development and I'm focused on the back-end, after all, it's the most fun area.
+I'm graduated in Analysis and Systems Development and I'm focused on the back-end, after all, it's the most fun area.
 
 
 ### About my skills,  technical skills, of course
