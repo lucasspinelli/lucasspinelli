@@ -24,9 +24,9 @@ Some other skills:
 - Laravel
 
 🌱 I’m currently studing about: 
-- Clojure 
 - Kafka  
 - Dart and Flutter
+- Angular
 
 
 ### About my jobs and experiences 
