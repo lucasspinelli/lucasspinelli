@@ -44,11 +44,17 @@ Like the skills section, this will be under construction, After all, I just star
 4 - In my teens, I got Challenger in League of Legends. To be honest, I'm not really proud of that. ~To be more honest, I am~
 ```
 
-If you want to know more, send me a message and let's talk! 
-<a href="https://api.whatsapp.com/send?phone=+5516997975061"><button type="button">Send a message</button></a>
 
+ ### How to reach me <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40vw" />
+<div>
+    <a href="https://www.linkedin.com/in/lucaslevi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:contato.lucaslevi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/lucas.levii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCYn154LzgI9PDLRTspBCMFQ" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCYn154LzgI9PDLRTspBCMFQ?sub_confirmation=1?style=social" target="_blank"></a>
+</div> 
 
 t-t-that's a-all, f-f-folks! 
+
 
 
 
