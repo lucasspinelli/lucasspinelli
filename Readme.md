@@ -23,13 +23,16 @@ Some other skills:
 - Laravel
 
 🌱 I’m currently studing about: 
-- Kafka  
-- Dart and Flutter
-- Angular
+- Ethinical Hacking 
+- Python
+- Cyber Security
+<img src="https://tryhackme-badges.s3.amazonaws.com/leviatan.png" alt="TryHackMe">
 
 
 ### About my jobs and experiences 
 Like the skills section, this will be under construction, After all, I just started my career
+- Sr FullStack Developer at Monitora
+- Mid FullStack Developer at Monitora
 - Jr FullStack Developer at Monitora
 - Jr Back-end Developer at Luz Soluções Financeiras
 - Web Developer at Performma Online 
