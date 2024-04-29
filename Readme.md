@@ -31,6 +31,7 @@ Some other skills:
 
 ### About my jobs and experiences 
 Like the skills section, this will be under construction, After all, I just started my career
+- Cyber Security Analyst at Satander
 - Sr FullStack Developer at Monitora
 - Mid FullStack Developer at Monitora
 - Jr FullStack Developer at Monitora
@@ -52,7 +53,6 @@ Like the skills section, this will be under construction, After all, I just star
     <a href="https://www.linkedin.com/in/lucaslevi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contato.lucaslevi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/lucas.levii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCYn154LzgI9PDLRTspBCMFQ" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCYn154LzgI9PDLRTspBCMFQ?sub_confirmation=1?style=social" target="_blank"></a>
 </div> 
 
 t-t-that's a-all, f-f-folks! 
