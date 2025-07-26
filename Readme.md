@@ -3,35 +3,35 @@
 ![GitHub Logo](/bannerpicture.png)
 
 ### About me 😄
-My real name is Lucas, but everyone calls me by 'Levi', because 'Lucas' we find anywhere. 
-As you may have already seen, I am a young man who loves old movies, and the most important, technology. 
-I'm graduated in Analysis and Systems Development and I'm focused on the back-end, after all, it's the most fun area.
+Hey everyone! I'm Lucas, though you can just call me **Levi**.
+My journey in tech kicked off with a degree in Analysis and Systems Development, where I built a solid foundation, especially on the **back-end** side of things. It was cool, but my path really shifted when I got curious about security.
+That curiosity led me to pursue a postgraduate degree in **Ethical Hacking and Cybersecurity**. It genuinely ignited my passion for keeping digital assets safe. Since 2022, I've been working as a **Security Engineer**, which means I spend my days identifying vulnerabilities, implementing robust controls, and championing secure development practices. When I'm not doing that, you'll often find me diving into CTF competitions and bug bounty programs a great way to keep my offensive and defensive security skills sharp and have some fun, plus some bountys.
 
 
-### About my skills,  technical skills, of course
+### About my technical skills
 I can say that already learn some languages, but, this section will be always under construction, never stop learning, Am I right?
-- Javascript
+#### Progamming Languages 
 - Java 
-- C#, C and C++ (thank you University)
-- PHP 
-- HMTL, CSS
-- Node.js
-- React.js 
+- C#, C++ and C (thanks university)
+- Python 
+- Javascript
+- A little bit of PHP 
 
-Some other skills: 
-- Springboot
-- Laravel
+#### Security Skills 
+- Source code review 
+- CI/CD integration 
+- Threat Modeling 
+- Vulnerability Scanning 
+- SSDLC 
+- Web application Pentest 
 
 🌱 I’m currently studing about: 
-- Ethinical Hacking 
-- Python
-- Cyber Security
-<img src="https://tryhackme-badges.s3.amazonaws.com/leviatan.png" alt="TryHackMe">
-
+- IaC
+- Contaneiner Security
+- Mobile Pentest
 
 ### About my jobs and experiences 
-Like the skills section, this will be under construction, After all, I just started my career
-- Cyber Security Analyst at Satander
+- Application Security Engineer at Santander
 - Sr FullStack Developer at Monitora
 - Mid FullStack Developer at Monitora
 - Jr FullStack Developer at Monitora
@@ -42,16 +42,19 @@ Like the skills section, this will be under construction, After all, I just star
 ⚡ Fun Facts:
 ```
 1 - I have 5 tattoos with technology theme
-2 - My favorite anime in the whole world is One Piece (It get's better after 800 episodes LOL) 
+2 - My favorite anime in the whole world is One Piece (It get's better after 800 episodes) 
 3 - My favorite tv show is Bojack Horseman ~I don't understand how people lives🐴 ~
 4 - In my teens, I got Challenger in League of Legends. To be honest, I'm not really proud of that. ~To be more honest, I am~
 ```
 
 
- ### How to reach me <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40vw" />
+ ### You can find me here: 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/leviatan.png" alt="Your Image Badge" />
+
 <div>
     <a href="https://www.linkedin.com/in/lucaslevi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:contato.lucaslevi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:lucas.lsl12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/lucas.levii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
 
